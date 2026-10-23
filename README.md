@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kevin 👋
 
-<!--
-**kevinbenty/kevinbenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in **Complex Adaptive Systems** at Chalmers University of Technology, working on machine learning, evolutionary optimization and computer vision for edge devices.
 
-Here are some ideas to get you started:
+## 🔬 Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ISMIR 2026 (Abu Dhabi):** co-author of a paper on physics-guided spectral decomposition for the Chenda drum.
+
+**Bridge crack detection on edge devices:** comparing CNN, MobileNetV2 and Vision Transformer models for multi-class crack detection. [Code](https://github.com/kevinbenty/Crack-Detection-Using-Deep-Learning-for-Edge-Devices)
+
+## 🚀 Projects
+
+**[mistral-7b-rpi](https://github.com/kevinbenty/mistral-7b-rpi):** running Mistral-7B on a Raspberry Pi for on-device LLM inference.
+
+**[Autonomous drone for wild boar detection](https://github.com/kevinbenty/autonomous-drone-wild-boar-detection):** Raspberry Pi drone that detects wild boar with a vision model and triggers a deterrent.
+
+## 🛠️ Tools
+
+Python · PyTorch · Raspberry Pi · Jupyter
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/kevin-benty/) · kevinbenty110@gmail.com
