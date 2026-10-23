@@ -10,13 +10,13 @@ MSc student in **Complex Adaptive Systems** at Chalmers University of Technology
 
 ## 🚀 Projects
 
-**[mistral-7b-rpi](https://github.com/kevinbenty/mistral-7b-rpi):** running Mistral-7B on a Raspberry Pi for on-device LLM inference.
+**[Autonomous drone for wild boar detection](https://github.com/kevinbenty/autonomous-drone-wild-boar-detection):** Raspberry Pi drone that detects wild boar with a vision model and triggers an ultrasonic deterrent.
 
-**[Autonomous drone for wild boar detection](https://github.com/kevinbenty/autonomous-drone-wild-boar-detection):** Raspberry Pi drone that detects wild boar with a vision model and triggers a deterrent.
+**[PharmaRep CRM](https://github.com/kevinbenty/pharmarep-crm):** AI-first CRM for pharma field reps to log and analyze HCP interactions, built with React, FastAPI and LangGraph.
 
 ## 🛠️ Tools
 
-Python · PyTorch · Raspberry Pi · Jupyter
+Python · PyTorch · TensorFlow Lite · React · FastAPI · Raspberry Pi
 
 ## 📫 Contact
 
