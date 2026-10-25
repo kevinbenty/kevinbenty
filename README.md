@@ -12,7 +12,7 @@ MSc student in **Complex Adaptive Systems** at Chalmers University of Technology
 
 **[Autonomous drone for wild boar detection](https://github.com/kevinbenty/autonomous-drone-wild-boar-detection):** Raspberry Pi drone that detects wild boar with a vision model and triggers an ultrasonic deterrent.
 
-**[PharmaRep CRM](https://github.com/kevinbenty/pharmarep-crm):** AI-first CRM for pharma field reps to log and analyze HCP interactions, built with React, FastAPI and LangGraph.
+**[PharmaRep CRM](https://github.com/kevinbenty/pharmarep-crm):** AI-first CRM for pharma field reps to log and analyze HCP interactions, built with React, FastAPI and LangGraph. [Live demo](https://kevinbenty.github.io/pharmarep-crm/)
 
 ## 🛠️ Tools
 
